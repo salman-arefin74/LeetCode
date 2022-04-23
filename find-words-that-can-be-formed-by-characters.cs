@@ -23,6 +23,7 @@ public class Solution {
             }
             dummy = chars.ToCharArray();
         }
+      
         return charNums;
     }
 }
