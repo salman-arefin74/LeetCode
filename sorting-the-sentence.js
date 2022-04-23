@@ -13,6 +13,5 @@ var sortSentence = function(s) {
     for(let i=1; i<words.length; i++){
         sentence = sentence + ' ' + words[i];
     }
-    
     return sentence;
 };
