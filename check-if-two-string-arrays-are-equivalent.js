@@ -7,7 +7,6 @@ var arrayStringsAreEqual = function(word1, word2) {
     for(let i=0; i<word2.length; i++){
         sentence2 = sentence2 + word2[i];
     }
-
     if(sentence1 == sentence2){
         return true;
     }
