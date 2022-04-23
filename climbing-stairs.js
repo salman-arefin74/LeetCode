@@ -11,6 +11,5 @@ var climbStairs = function(n) {
         oneStepBefore = steps;
         steps = twoStepBefore + oneStepBefore;
     }
-
     return steps;
 };
