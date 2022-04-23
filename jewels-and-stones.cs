@@ -14,6 +14,7 @@ public class Solution {
 						total++;
                 }
 			}
+      
 			return total;
     }
 }
