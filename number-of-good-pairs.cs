@@ -10,7 +10,7 @@ public class Solution {
 					if (nums[i] == nums[j] && i < j)
 						num++;
 				}
-			}				
+			}
 			return num;
     }
 }
