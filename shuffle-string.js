@@ -9,5 +9,6 @@ var restoreString = function(s, indices) {
     		let index = indices.indexOf(sortedIndices[i]);
         newSort = s[index] + newSort;  
     }
+  
     return newSort.split("").reverse().join("");
 };
