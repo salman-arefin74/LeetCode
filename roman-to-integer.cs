@@ -37,7 +37,6 @@ public class Solution
 					if (s[i].ToString().ToLower() == "m" && s[i - 1].ToString().ToLower() == "c")
 						val = val - 200;
 				}
-
 			}
 
 			return val;
