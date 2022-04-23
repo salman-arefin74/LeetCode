@@ -15,6 +15,7 @@ public class Solution {
 				}
 				less[i] = count;
 			}
-			return less;
+			
+      return less;
     }
 }
