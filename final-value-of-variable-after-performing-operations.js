@@ -8,5 +8,6 @@ var finalValueAfterOperations = function(operations) {
             x--;
         }
     }
+  
     return x;
 };
