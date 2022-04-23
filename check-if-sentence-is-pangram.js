@@ -1,7 +1,7 @@
 var checkIfPangram = function(sentence) {
     if(sentence.length < 26){
         return false;
-    }   
+    }
     else{
         let alphabet = 'a';
         let found = false;
