@@ -18,5 +18,6 @@ var countConsistentStrings = function(allowed, words) {
             count++;
         }        
     }
+  
     return count;
 };
