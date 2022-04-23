@@ -7,5 +7,6 @@ var mySqrt = function(x) {
         if(square > x) 
             num--;
     }
+  
     return num;
 };
