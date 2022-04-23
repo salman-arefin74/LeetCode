@@ -1,3 +1,3 @@
 var toLowerCase = function(s) {
-  return s.toLowerCase();  
+  return s.toLowerCase();
 };
