@@ -1,7 +1,5 @@
-public class Solution 
-{
-    public int Reverse(int x) 
-    {
+public class Solution {
+    public int Reverse(int x) {
         int reversed = 0;
         int y = x;
         int backup = x;
@@ -18,5 +16,4 @@ public class Solution
         
         return reversed;
     }
-    
 }
