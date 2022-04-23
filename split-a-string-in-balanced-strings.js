@@ -12,6 +12,5 @@ var balancedStringSplit = function(s) {
             count++;
         }
     }
-
     return count;
 };
