@@ -4,5 +4,6 @@ var truncateSentence = function(s, k) {
     for(let i=1; i<k; i++){
         trunc = trunc + ' ' + newArr[i];
     }
+  
     return trunc;
 };
